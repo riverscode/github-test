@@ -2,4 +2,8 @@
 
 ### Un subtitulo
 
-Un texto normal
+Un párrafo normal
+
+- Lista 1
+- Lista 2
+- Lista 3
